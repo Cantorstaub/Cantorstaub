@@ -8,6 +8,6 @@ My specific way of programming as _Media Archaeology_ is informed by the intenti
 
 This scope on Python is expanded by work with the _Arduino microcontroller_ and corresponding projects in _physical computation_ and robotics. Especially while being in charge of the technical side of things in the [Virtual Humanities Lab](https://vhl.blogs.ruhr-uni-bochum.de/) at _Ruhr-University Bochum_, it included building and testing the _Lidar on Wheels_ robot, a small experimental transportation device for the measuring of rooms with the _RPLidar A1M8_ Sensor (which you can see in this account’s profile picture).
 
-In my seminal teaching, I combine hands-on introductions to programming in _Python_ (and also _Arduino_) with discursive analyses of texts on digital phenomena. This enables Humanities students to grasp basic yet central functionalities of digital media and to explore the possibilities of combining these practical engagements with critical reading and thinking about digital phenomena across persisting disciplinary delimitations.
+In my seminal teaching, I have been combining hands-on introductions to programming in _Python_ (and also _Arduino_) with discursive analyses of texts on digital phenomena for years now. This enables Humanities students to grasp basic yet central functionalities of digital media and to explore the possibilities of combining these practical engagements with critical reading and thinking about digital phenomena across persisting disciplinary delimitations.
 
 You can reach me at: [thomas.nyckel@ur.de](mailto:thomas.nyckel@ur.de)
