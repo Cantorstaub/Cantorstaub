@@ -13,3 +13,5 @@ This scope on Python is expanded by work with the _Arduino microcontroller_ and 
 In my seminal teaching, I have been combining hands-on introductions to programming in _Python_ (and also _Arduino_) with discursive analyses of texts on digital phenomena. This enables Humanities students to grasp basic yet central functionalities of digital media and to explore the possibilities of combining these practical engagements with critical reading and thinking about digital phenomena across persisting disciplinary delimitations.
 
 You can reach me at: [thomas.nyckel@ur.de](mailto:thomas.nyckel@ur.de)
+
+_Last edit_: 2025-08-24
