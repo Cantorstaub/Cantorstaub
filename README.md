@@ -14,4 +14,6 @@ In my seminal teaching, I have been combining hands-on introductions to programm
 
 You can reach me at: [thomas.nyckel@ur.de](mailto:thomas.nyckel@ur.de)
 
+---
+
 _last edit_: 2025-08-27
