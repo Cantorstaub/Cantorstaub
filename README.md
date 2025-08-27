@@ -6,7 +6,7 @@ Building upon approaches from _Media Archaeology_, my focus lies on the software
 
 My specific way of programming as _Media Archaeology_ is informed by the intention to grasp aspects of epistemological relevance from a particular piece of code (if there are) and to thereby consolidate, specify, and expand existing media theoretical knowledge on computation and digital artifacts and their epistemic ramifications.
 
-The language I use and teach the most is _Python_. The way I use the language is informed by experiences with programming in machine language and assembler, especially with the _Signetics 2650_. Thereby, my coding has a tendency to adhere to elementary principles and to “the machine,” which serves the epistemological and didactic purposes connected with it. Correspondingly, this way of programming prioritizes accessibility over elegance and clarity over efficiency. It is epistemological questions driving these projects, and rather seldom merely functional desires. In some cases, the resulting programs will even include what Pythonistas call an _anti-pattern_: code that, albeit functional, does not obey the established rules of how to do things correctly in _Python_ when programming for third parties or users.
+The language I use and teach the most is _Python_. The way I use the language is informed by experiences with programming in machine language and assembler, especially with the [Signetics 2650](https://github.com/Cantorstaub/Game-of-Memories). Thereby, my coding has a tendency to adhere to elementary principles and to “the machine,” which serves the epistemological and didactic purposes connected with it. Correspondingly, this way of programming prioritizes accessibility over elegance and clarity over efficiency. It is epistemological questions driving these projects, and rather seldom merely functional desires. In some cases, the resulting programs will even include what Pythonistas call an _anti-pattern_: code that, albeit functional, does not obey the established rules of how to do things correctly in _Python_ when programming for third parties or users.
 
 This scope on Python is expanded by work with the _Arduino microcontroller_ and corresponding projects in _physical computation_ and robotics. Especially while being in charge of the technical side of things in the [Virtual Humanities Lab](https://vhl.blogs.ruhr-uni-bochum.de/) at _Ruhr-University Bochum_, it included building and testing the [Lidar on Wheels](https://github.com/Cantorstaub/Lidar-on-Wheels) robot, a small experimental transportation device for the measuring of rooms with the _RPLidar A1M8_ Sensor (which you can see in this account’s profile picture).
 
@@ -14,4 +14,4 @@ In my seminal teaching, I have been combining hands-on introductions to programm
 
 You can reach me at: [thomas.nyckel@ur.de](mailto:thomas.nyckel@ur.de)
 
-_Last edit_: 2025-08-24
+_last edit_: 2025-08-27
